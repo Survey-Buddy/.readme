@@ -1,5 +1,13 @@
 # **SurveyBuddy**
 
+---
+
+## **Note**
+
+SurveyBuddy is currently under production. Please visit again soon for the source code and updates.
+
+---
+
 **SurveyBuddy** is an intuitive and user-friendly platform designed to streamline survey creation, sharing, and analytics. Our mission is to simplify the feedback collection process for individuals, teams, and businesses, empowering them to make informed decisions based on clear, actionable insights.
 
 ---
